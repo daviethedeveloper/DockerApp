@@ -1,0 +1,35 @@
+/* style.css content */
+body {
+    background-color: #9e517a;
+}
+
+.custom-style {
+    background-color: #9e517a;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px 0px;
+}
+
+.stTextInput>div>div>input {
+    border-radius: 20px;
+}
+
+.st-bb {
+    border-radius: 20px;
+}
+
+
+.stButton>button {
+    border-radius: 20px;
+    border: 1px solid #1188ff;
+    background-color: #419dff;
+    color: white;
+    padding: 10px 24px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.stButton>button:hover {
+    background-color: #2a4f74;
+}
+
